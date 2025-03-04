@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angst</h1>
 <h3 align="center">i'm a student</h3>
-
 - 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **C++**
-
 - ⚡ Fun fact **Python is older then Java**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
