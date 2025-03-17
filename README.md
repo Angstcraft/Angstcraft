@@ -18,6 +18,6 @@ Interesting fun fact: Python was around before Java!
 ---
 [![](https://visitcount.itsvg.in/api?id=Angstcraft&icon=2&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by donate to your local animal shelter.) 
+  ## 💰 If you're feeling generous today, why not lend a hand to your local animal shelter? :)
 
   
