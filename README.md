@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angst</h1>
  💫 About Me:
  
-🔭 I'm a student currently learning, so I'd be thrilled to help you out if you need it!
+🔭 I'm a student currently learning new subjects , so I'd be thrilled to help you out if you need it!
 <br>I'm passionate about learning and love discussing things with people!<br>
 Interesting fun fact: Python was around before Java!
 
