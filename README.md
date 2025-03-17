@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angst</h1>
-# 💫 About Me:
-🔭 I'm a student currently learning, so I'd be thrilled to help you out if you need it! <br>I'm passionate about learning and love discussing things with people!<br> Here's an interesting fun fact: Python was around before Java!
+ 💫 About Me:
+ 
+🔭 I'm a student currently learning, so I'd be thrilled to help you out if you need it!
+<br>I'm passionate about learning and love discussing things with people!<br>
+Interesting fun fact: Python was around before Java!
 
 
 # 💻 Tech Stack:
